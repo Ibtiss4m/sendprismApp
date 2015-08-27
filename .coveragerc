@@ -1,0 +1,3 @@
+[run]
+include = sendprism/*
+omit = *migrations*
